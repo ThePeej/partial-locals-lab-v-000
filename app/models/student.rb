@@ -1,3 +1,5 @@
+require 'pry'
+
 # == Schema Information
 #
 # Table name: students
